@@ -19,7 +19,7 @@
 <div align="center">
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
-I specialize in **Cloud Computing** and **Full-Stack Development**, building scalable solutions with modern technologies.
+I specialize in Cloud Computing and Full-Stack Development, building scalable solutions with modern technologies.
 
 - 🔭 Focusing on **cloud-native technologies** & **CI/CD automation**
 - 🌱 Passionate about **infrastructure as code** & **microservices**  
