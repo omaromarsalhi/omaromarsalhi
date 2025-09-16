@@ -50,11 +50,12 @@ I specialize in **Cloud Computing** and **Full-Stack Development**, building sca
 </div>
 
 
+
 ---
 
 <div align="center">
 
-⚡ *Building the future with **cloud-native solutions** and **DevOps innovation*** ⚡
+⚡ *Building the future with **innovative software**, **cloud-native solutions** and **DevOps innovation*** ⚡
 
 <img src="https://komarev.com/ghpvc/?username=omaromarsalhi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
