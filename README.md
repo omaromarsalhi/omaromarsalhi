@@ -81,10 +81,7 @@ I'm a **Software Engineering student** at ESPRIT with a passion for **DevOps**, 
 - Deploying **Ceph distributed storage** and **ELK stack**
 - Implementing **CI/CD pipelines** and **database backups**
 
-## 🌍 Languages
-- **Arabic**: Native
-- **English**: B2
-- **French**: B2
+
 
 ## 📫 Let's Connect!
 
