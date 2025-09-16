@@ -17,7 +17,7 @@
 ## 💫 About Me
 
 <div align="center">
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 I specialize in **Cloud Computing** and **Full-Stack Development**, building scalable solutions with modern technologies.
 
