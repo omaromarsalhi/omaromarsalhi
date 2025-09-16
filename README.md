@@ -1,7 +1,9 @@
 # Hi there! 👋 I'm Omar Salhi
 
 ## 🚀 About Me
-I'm a **Software Engineer** and **DevOps Engineer** specializing in **Cloud Computing** and **Full-Stack Development**. I build scalable solutions and work with modern technologies to deliver robust applications.
+**Software Engineer** | **DevOps Engineer** | **Cloud Enthusiast**
+
+I specialize in **Cloud Computing** and **Full-Stack Development**, building scalable solutions and working with modern technologies to deliver robust applications.
 
 - 🔭 Currently focusing on **cloud-native technologies** and **CI/CD automation**
 - 🌱 Passionate about **infrastructure as code** and **microservices architecture**
@@ -21,13 +23,15 @@ I'm a **Software Engineer** and **DevOps Engineer** specializing in **Cloud Comp
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ## 📊 GitHub Stats
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omaromarsalhi&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omaromarsalhi&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=omaromarsalhi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaromarsalhi&layout=compact&theme=dark&langs_count=8"/>
+</p>
 
 ## 📫 Let's Connect!
 
