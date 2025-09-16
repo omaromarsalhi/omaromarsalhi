@@ -16,17 +16,16 @@
 
 ## 💫 About Me
 
-<div align="center">
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
-I specialize in Cloud Computing and Full-Stack Development, building scalable solutions with modern technologies.
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+I specialize in **Cloud Computing** and **Full-Stack Development**, building scalable solutions with modern technologies.
 
 - 🔭 Focusing on **cloud-native technologies** & **CI/CD automation**
 - 🌱 Passionate about **infrastructure as code** & **microservices**  
 - 💼 **AWS Certified Cloud Practitioner**
 - 📍 Based in **Tunis, Tunisia** 🇹🇳
 
-
+<br clear="both"/>
 
 ## 🛠️ Tech Stack
 
@@ -50,15 +49,6 @@ I specialize in Cloud Computing and Full-Stack Development, building scalable so
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=omaromarsalhi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaromarsalhi&layout=compact&theme=dark&border_radius=10&langs_count=6" alt="Top Languages" />
-
-</div>
 
 ---
 
