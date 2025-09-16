@@ -1,44 +1,59 @@
-# Hi there! 👋 I'm Omar Salhi
+<div align="center">
 
-## 🚀 About Me
-**Software Engineer** | **DevOps Engineer** | **Cloud Enthusiast**
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> I'm Omar Salhi
 
-I specialize in **Cloud Computing** and **Full-Stack Development**, building scalable solutions and working with modern technologies to deliver robust applications.
-
-- 🔭 Currently focusing on **cloud-native technologies** and **CI/CD automation**
-- 🌱 Passionate about **infrastructure as code** and **microservices architecture**
-- 💼 **AWS Certified Cloud Practitioner** with hands-on experience in cloud deployments
-- 🎯 Experienced in both **software development** and **DevOps practices**
-- 📍 Based in **Tunis, Tunisia**
-
-## 🛠️ Tech Stack
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-## 📊 GitHub Stats
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;DevOps+Engineer;Cloud+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&color=f75c7e&vCenter=true&size=22&pause=1000">
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=omaromarsalhi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omaromarsalhi&layout=compact&theme=dark&langs_count=8"/>
+  <a href="https://linkedin.com/in/omar-salhi-84a620229"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:omar.salhi.job@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/omaromarsalhi"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-salhi-84a620229)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omar.salhi.job@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/omaromarsalhi)
 
 ---
 
-⚡ **Fun fact**: I love architecting **cloud-native solutions** and exploring innovative **DevOps practices**!
+</div>
+
+## 💫 About Me
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+I specialize in **Cloud Computing** and **Full-Stack Development**, building scalable solutions with modern technologies.
+
+- 🔭 Focusing on **cloud-native technologies** & **CI/CD automation**
+- 🌱 Passionate about **infrastructure as code** & **microservices**  
+- 💼 **AWS Certified Cloud Practitioner**
+- 📍 Based in **Tunis, Tunisia** 🇹🇳
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+
+---
+
+<div align="center">
+
+⚡ *Building the future with **cloud-native solutions** and **DevOps innovation*** ⚡
+
+<img src="https://komarev.com/ghpvc/?username=omaromarsalhi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
